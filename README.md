@@ -1,0 +1,1 @@
+# min-devops-resa
