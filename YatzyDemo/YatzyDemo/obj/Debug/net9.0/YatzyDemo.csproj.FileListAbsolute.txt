@@ -1,0 +1,14 @@
+C:\Users\antep\devops-projekt\YatzyDemo\YatzyDemo\bin\Debug\net9.0\YatzyDemo.exe
+C:\Users\antep\devops-projekt\YatzyDemo\YatzyDemo\bin\Debug\net9.0\YatzyDemo.deps.json
+C:\Users\antep\devops-projekt\YatzyDemo\YatzyDemo\bin\Debug\net9.0\YatzyDemo.runtimeconfig.json
+C:\Users\antep\devops-projekt\YatzyDemo\YatzyDemo\bin\Debug\net9.0\YatzyDemo.dll
+C:\Users\antep\devops-projekt\YatzyDemo\YatzyDemo\bin\Debug\net9.0\YatzyDemo.pdb
+C:\Users\antep\devops-projekt\YatzyDemo\YatzyDemo\obj\Debug\net9.0\YatzyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antep\devops-projekt\YatzyDemo\YatzyDemo\obj\Debug\net9.0\YatzyDemo.AssemblyInfoInputs.cache
+C:\Users\antep\devops-projekt\YatzyDemo\YatzyDemo\obj\Debug\net9.0\YatzyDemo.AssemblyInfo.cs
+C:\Users\antep\devops-projekt\YatzyDemo\YatzyDemo\obj\Debug\net9.0\YatzyDemo.csproj.CoreCompileInputs.cache
+C:\Users\antep\devops-projekt\YatzyDemo\YatzyDemo\obj\Debug\net9.0\YatzyDemo.dll
+C:\Users\antep\devops-projekt\YatzyDemo\YatzyDemo\obj\Debug\net9.0\refint\YatzyDemo.dll
+C:\Users\antep\devops-projekt\YatzyDemo\YatzyDemo\obj\Debug\net9.0\YatzyDemo.pdb
+C:\Users\antep\devops-projekt\YatzyDemo\YatzyDemo\obj\Debug\net9.0\YatzyDemo.genruntimeconfig.cache
+C:\Users\antep\devops-projekt\YatzyDemo\YatzyDemo\obj\Debug\net9.0\ref\YatzyDemo.dll

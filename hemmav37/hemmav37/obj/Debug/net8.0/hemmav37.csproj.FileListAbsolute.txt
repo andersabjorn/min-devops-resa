@@ -1,0 +1,14 @@
+C:\Repos\hemmav37\hemmav37\bin\Debug\net8.0\hemmav37.exe
+C:\Repos\hemmav37\hemmav37\bin\Debug\net8.0\hemmav37.deps.json
+C:\Repos\hemmav37\hemmav37\bin\Debug\net8.0\hemmav37.runtimeconfig.json
+C:\Repos\hemmav37\hemmav37\bin\Debug\net8.0\hemmav37.dll
+C:\Repos\hemmav37\hemmav37\bin\Debug\net8.0\hemmav37.pdb
+C:\Repos\hemmav37\hemmav37\obj\Debug\net8.0\hemmav37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\hemmav37\hemmav37\obj\Debug\net8.0\hemmav37.AssemblyInfoInputs.cache
+C:\Repos\hemmav37\hemmav37\obj\Debug\net8.0\hemmav37.AssemblyInfo.cs
+C:\Repos\hemmav37\hemmav37\obj\Debug\net8.0\hemmav37.csproj.CoreCompileInputs.cache
+C:\Repos\hemmav37\hemmav37\obj\Debug\net8.0\hemmav37.dll
+C:\Repos\hemmav37\hemmav37\obj\Debug\net8.0\refint\hemmav37.dll
+C:\Repos\hemmav37\hemmav37\obj\Debug\net8.0\hemmav37.pdb
+C:\Repos\hemmav37\hemmav37\obj\Debug\net8.0\hemmav37.genruntimeconfig.cache
+C:\Repos\hemmav37\hemmav37\obj\Debug\net8.0\ref\hemmav37.dll
