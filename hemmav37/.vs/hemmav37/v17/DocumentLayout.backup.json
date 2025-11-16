@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Repos\\hemmav37\\",
+  "WorkspaceRootPath": "C:\\Users\\antep\\devops-projekt\\hemmav37\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EB4D0ED-1778-4920-BFC6-D0466F97EA55}|hemmav37\\hemmav37.csproj|c:\\repos\\hemmav37\\hemmav37\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EB4D0ED-1778-4920-BFC6-D0466F97EA55}|hemmav37\\hemmav37.csproj|c:\\users\\antep\\devops-projekt\\hemmav37\\hemmav37\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EB4D0ED-1778-4920-BFC6-D0466F97EA55}|hemmav37\\hemmav37.csproj|solutionrelative:hemmav37\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repos\\hemmav37\\hemmav37\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\antep\\devops-projekt\\hemmav37\\hemmav37\\Program.cs",
               "RelativeDocumentMoniker": "hemmav37\\Program.cs",
-              "ToolTip": "C:\\Repos\\hemmav37\\hemmav37\\Program.cs",
+              "ToolTip": "C:\\Users\\antep\\devops-projekt\\hemmav37\\hemmav37\\Program.cs",
               "RelativeToolTip": "hemmav37\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T06:48:34.528Z",
               "IsPinned": true,
